@@ -1,1 +1,1 @@
-# Rerador de tabúada com _Python_
+# Gerador de tabúada com _Python_
